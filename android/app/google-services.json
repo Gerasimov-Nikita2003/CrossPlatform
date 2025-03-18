@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764556583689",
+    "project_id": "flutter-1819c",
+    "storage_bucket": "flutter-1819c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764556583689:android:cf0a7a7fe89ccd6d9069d8",
+        "android_client_info": {
+          "package_name": "com.example.news_brief"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6UPhs2IcdJTeY4kkj-lCwJ-r9NMwZXq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
